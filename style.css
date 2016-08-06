@@ -1,0 +1,26 @@
+ul{
+	margin: 0;
+	padding: 0;
+}
+.project{
+	cursor: pointer;
+	/*width: 24.1%;*/
+	/*height: 300px;*/
+	display: flex;
+	justify-content: center;
+	float: left;
+	margin: 5px;
+	align-items: center;
+	background-color: #6eaccc;
+	color: #fff;
+	font-family: 'Open-Sans', 'Arial';
+	letter-spacing: 2px;
+	font-weight: 300;
+	border: 1px solid #6eaccc;
+}
+.selected{
+	border: 1px solid #265973;
+}
+.created{
+	cursor: inherit;
+}

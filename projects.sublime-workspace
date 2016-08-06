@@ -1,0 +1,1248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cre",
+				"created"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"project",
+				"projectList"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"md-menu",
+				"md-menu-item"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"chec",
+				"check"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"matr",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"P",
+				"preventDefault"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"tran",
+				"translateX()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"lstyp",
+				"list-style-type"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"count",
+				"count_cat"
+			],
+			[
+				"coun",
+				"count_cat"
+			],
+			[
+				"Work",
+				"Works"
+			],
+			[
+				"size",
+				"size_key"
+			],
+			[
+				"h",
+				"highlighted_works"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"F",
+				"FALSE"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"big",
+				"big_pic"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"das",
+				"dashboard"
+			],
+			[
+				"dashboard_",
+				"dashboard_footer"
+			],
+			[
+				"dash",
+				"dashboard_header"
+			],
+			[
+				"change",
+				"change_password"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"REQ",
+				"REQUEST_URI"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"rec",
+				"receiver"
+			],
+			[
+				"templ",
+				"templates"
+			],
+			[
+				"main",
+				"main_template"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"sess",
+				"session_unset"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"login",
+				"login_view"
+			],
+			[
+				"date",
+				"date_add"
+			],
+			[
+				"reg",
+				"registration_view"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"dlop",
+				"dlops_model"
+			],
+			[
+				"file_",
+				"files_model"
+			],
+			[
+				"top",
+				"topH"
+			],
+			[
+				"cal",
+				"calcHeight"
+			],
+			[
+				"get",
+				"getHeight"
+			],
+			[
+				"wor",
+				"work_out"
+			],
+			[
+				"ab",
+				"abilities"
+			],
+			[
+				"co",
+				"Coatch"
+			],
+			[
+				"add",
+				"add_barman"
+			],
+			[
+				"cafe",
+				"cafe_style"
+			],
+			[
+				"ca",
+				"cafe_obj"
+			],
+			[
+				"M",
+				"MusicStyle"
+			],
+			[
+				"B",
+				"Barman"
+			],
+			[
+				"pho",
+				"phone_number"
+			],
+			[
+				"mus",
+				"music_style"
+			],
+			[
+				"caf",
+				"cafe"
+			],
+			[
+				"count_",
+				"count_rating"
+			],
+			[
+				"cur",
+				"curent_tmp"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"as",
+				"assessment"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"get_count",
+				"get_count_teachers"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"S",
+				"Subject"
+			],
+			[
+				"cou",
+				"count_hour"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"n",
+				"nomber_in_class"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"impl",
+				"implements"
+			],
+			[
+				"displ",
+				"display_size"
+			],
+			[
+				"batt",
+				"battery_name"
+			],
+			[
+				"b",
+				"battery"
+			],
+			[
+				"disp",
+				"display_class"
+			],
+			[
+				"bat",
+				"battery_class"
+			],
+			[
+				"dat",
+				"date"
+			],
+			[
+				"book",
+				"book_model"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"edit",
+				"edit_product"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"total",
+				"total_available_money"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"ava",
+				"Avarage"
+			],
+			[
+				"to",
+				"total_money"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"ed",
+				"edit_product"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 961,
+				"line_ending": "Windows",
+				"name": "index"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 11760,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Snippet: bs3-table"
+			],
+			[
+				"off",
+				"Code Folding: Unfold All"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-5"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 320.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			"de"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/projects",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/projects/node_modules/jquery",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/projects/node_modules/jquery/dist"
+	],
+	"file_history":
+	[
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/User/OTHER/Desktop/publickey.txt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/controllers/dashboardCtrl.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/Controllers/UserController.php",
+		"/C/Users/User/Downloads/MOVIE/Warcraft.2016.1080p.KORSUB.HDRIP.x264.AAC-Garmin/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/The.5th.Wave.2016.480p.BDRip.XviD.AC3-SLSS/The.5th.Wave.2016.480p.BDRip.XviD.AC3-SLSS.srt",
+		"/C/Users/User/Downloads/MOVIE/The.5th.Wave.2016.480p.BDRip.XviD.AC3-SLSS/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.BRRip.x265-WAR/subsunacs.net_108792.txt",
+		"/C/Users/User/Downloads/MOVIE/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.BRRip.x265-WAR/X-Men.Days.of.Future.Past.2014.THE.ROGUE.CUT.BRRip.XviD.AC3-RARBG.srt",
+		"/C/Users/User/Downloads/MOVIE/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.BRRip.x265-WAR/str.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Martian.2015.HDRip.XviD-iFT/The.Martian.2015.WEB-DL.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Imitation.Game.2014.BDRip.XviD.AC3.DUAL-REFLUX/The.Imitation.Game.2014.BRRip.XviD.AC3-EVO.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Imitation.Game.2014.BDRip.XviD.AC3.DUAL-REFLUX/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Star.Wars.VII.The.Force.Awakens.2015.BDRip.x264.AAC-WAR/Star.Wars.Episode.VII.The.Force.Awakens.2015.READNFO.1080p.BluRay.DTS-HD.MA.7.1.x264-LEGi0N.srt",
+		"/C/Users/User/Downloads/MOVIE/Star.Wars.VII.The.Force.Awakens.2015.BDRip.x264.AAC-WAR/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Battle.for.Skyark.2015.BRRip.x264-WAR/Battle.for.Skyark.2015.BRRip.x264-WAR.srt",
+		"/C/Users/User/Downloads/MOVIE/Battle.for.Skyark.2015.BRRip.x264-WAR/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E01.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E02.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E03.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E04.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da Vinci's Demons - 03x07 - Alis Volat Proplis.KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E08.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da Vinci's Demons - 03x09 - Angelus Iratissimus.KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da Vincis Demons - 3x10 - Ira Deorum.HDTV.x264-KILLERS.bg.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Legend.of.Tarzan.2016.720p.HC.HDRip.X264.AC3-EVO[SN]/The.Legend.of.Tarzan.2016.HC.HDRip.XviD.AC3-EVO.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Legend.of.Tarzan.2016.720p.HC.HDRip.X264.AC3-EVO[SN]/srt.srt",
+		"/C/Users/User/OTHER/Desktop/diagram.json",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da.Vincis.Demons.S03E05.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/Da Vinci's Demons - 03x06 - Liberum Arbitrium.KILLERS.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/templates/show-product.html",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/resources/views/index.blade.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/templates/dashboard.html",
+		"/C/Users/User/Downloads/MOVIE/Da.Vincis.Demons.Season.3.HDTV.x264-KILLERS/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Warcraft.2016.1080p.KORSUB.HDRIP.x264.AAC-Garmin/Warcraft.2016.HC.HDRip.XviD.AC3-EVO.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/Controllers/ProductsController.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/routes.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/Controllers/DashboardController.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Products.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/controllers/homeCtrl.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/app.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/Controllers/HomeController.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/resources/views/reg.blade.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/services/auth.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Http/Kernel.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/app/Console/Kernel.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/css/homeStaf.css",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/templates/add-product.html",
+		"/C/Users/User/Downloads/MOVIE/Pan.2015.BRRip.XviD.AC3-EVO/Pan.2015.BDRip.XviD.AC3 TURG.srt",
+		"/C/Users/User/Downloads/MOVIE/My.Own.Private.Idaho.1991.BRRip.x264-WAR/srt.srt",
+		"/C/Users/User/OTHER/Desktop/products.sql",
+		"/C/Users/User/Downloads/MOVIE/Bad education/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/My.Own.Private.Idaho.1991.BRRip.x264-WAR/wmopi.srt",
+		"/C/Users/User/Downloads/MOVIE/Bad education/Bad[1].Education.2004.DVDRip.XviD.srt",
+		"/C/Users/User/Downloads/MOVIE/Justice.League.Throne.of.Atlantis.2015.BRRip.XviD.AC3-EVO/Justice.League.Throne.of.Atlantis.2015.720p.BluRay.x264-ROVERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Justice.League.Throne.of.Atlantis.2015.BRRip.XviD.AC3-EVO/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG.srt",
+		"/C/Users/User/Downloads/MOVIE/Independence Day Resurgence 2016 HD-TS x264 AC3-CPG/srt.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/templates/home.html",
+		"/C/Users/User/Downloads/MOVIE/Listening.2014.HDRip.XviD.AC3-iFT/Listening.2014.WEB-DL.XviD.AC3-RARBG.srt",
+		"/C/Users/User/Downloads/MOVIE/Listening.2014.HDRip.XviD.AC3-iFT/srt.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/controllers/AddProduct.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/controllers/AddProduct",
+		"/C/Users/User/OTHER/Desktop/products (1).sql",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/database/migrations/2016_07_09_151416_create_products_table.php",
+		"/C/Users/User/Downloads/MOVIE/The.Monkey.King.2.2016.BDRip.x264-ROVERS/srt.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/controllers/newCtrl.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/templates/new.html",
+		"/C/Users/User/Downloads/MOVIE/Latter.Days.2003.LiMiTED.DVDrip.XViD-ALLiANCE/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/Latter.Days.2003.LiMiTED.DVDrip.XViD-ALLiANCE/Latter.Days.2003.LiMiTED.DVDrip.XViD-ALLiANCE.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Monkey.King.2.2016.BDRip.x264-ROVERS/The.Monkey.King.2.2016.BDRip.x264-ROVERS.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/crewjob-live/.htaccess",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/app/services/sha1.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/.env",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/home.sublime-project",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/JS/OOP/index.html",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/JS/OOP/scripts/person-oop.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/JS/OOP/scripts/student-oop.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/package.json",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/composer.json",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/gulpfile.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/home-staf/public/package.json",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/JS/OOP/scripts/classic-oop.js",
+		"/C/Users/User/Downloads/MOVIE/silicon.valey.s03e10/Silicon.Valley.S03E10.PROPER.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Batman.v.Superman.Dawn.of.Justice.2016.WEBRip.x264.AAC-WAR/Batman.v.Superman.Dawn.of.Justice.2016.WEB-DL.srt",
+		"/C/Users/User/Downloads/MOVIE/Batman.v.Superman.Dawn.of.Justice.2016.WEBRip.x264.AAC-WAR/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/silicon.valey.s03e10/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/silicon.valey.s03e10/Silicon Valley S03E10 1080i HDTV MPEG2 DD5.1-CtrlHD.srt",
+		"/C/Users/User/Downloads/MOVIE/silicon.valey.s03e10/Silicon.Valley.S03E10.HDTV.x264-FLEET.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/Game.of.Thrones.S06E09.1080p.HDTV.x264-BATV.srt",
+		"/C/Users/User/Downloads/MOVIE/Silicon.Valley.S03E09.XviD-AFG/Silicon.Valley.S03E09.720p.HDTV.x264-KILLERS.srt",
+		"/C/Users/User/Downloads/MOVIE/Silicon.Valley.S03E09.XviD-AFG/srt.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/crewjob/.env",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones.10/Game of Thrones S06E10 1080i HDTV MPEG2 DD5.1-CtrlHD.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones.10/Game.of.Thrones.S06E10.720p.HDTV.x264-AVS.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones.10/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/silicon.valey.s03e10/Silicon.Valley.S03E10.720p.HDTV.x264-FLEET.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/crewjob/.htaccess",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/srt3.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/Game.of.Thrones.S06E09.720p.HDTV.x264-AVS.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/srt2.srt",
+		"/C/Users/User/OTHER/Desktop/AnimatedHeader/AnimatedHeader/js/cbpAnimatedHeader.js",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/Game of Thrones S06E09 1080i HDTV MPEG2 DD5.1-CtrlHD.srt",
+		"/C/Users/User/Downloads/MOVIE/game.of.thrones6-9/srt1.srt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/app/public/app/app/angular-route.min.js.map",
+		"/C/Users/User/OTHER/Desktop/AnimatedHeader/AnimatedHeader/index.html",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/app/public/core.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/node-todo/app/models/todo.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/node-todo/app/routes.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/app/dist/css/main.css",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/app/dist/css/normalize.css",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/app/gulpfile.js",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/ipetrovdev/index.php",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/ipetrovdev/composer.json",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/ipetrovdev/.htaccess",
+		"/C/Users/User/Downloads/MOVIE/Prayers.For.Bobby.2009.BRRip.x264-WAR/Prayers for Bobby 2009 720p BRRip x264-PLAYNOW.srt",
+		"/C/Users/User/Downloads/MOVIE/The Divergent Series Allegiant 2016 TC x264 AAC-ETRG/The Divergent Series.Allegiant.2016.TC.x264.AAC-ETRG.mp4.srt",
+		"/C/Users/User/Downloads/MOVIE/The Divergent Series Allegiant 2016 TC x264 AAC-ETRG/The.Divergent.Series.Allegiant.Part.1.2016.READNFO.HDRip.XviD.AC3-EVO.srt",
+		"/C/Users/User/Downloads/MOVIE/The Divergent Series Allegiant 2016 TC x264 AAC-ETRG/srt.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Divergent.Series.Allegiant.Part.1.2016.READNFO.HDRip.XviD.AC3-EVO/The.Divergent.Series.Allegiant.Part.1.2016.READNFO.HDRip.XviD.AC3-EVO.srt",
+		"/C/Users/User/Downloads/MOVIE/The.Divergent.Series.Allegiant.Part.1.2016.READNFO.HDRip.XviD.AC3-EVO/srt.srt",
+		"/C/Users/User/OTHER/Desktop/Editable-cv-format-download/License.txt",
+		"/C/Users/User/Downloads/SERVER/SERVER/htdocs/ipetrovdev/node_modules/jquery/dist/jquery.min.js"
+	],
+	"find":
+	{
+		"height": 84.0
+	},
+	"find_in_files":
+	{
+		"height": 373.0,
+		"where_history":
+		[
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\crewJob-new",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\rateit",
+			"C:\\Users\\User\\OTHER\\Desktop\\templates\\web",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\codeigniter",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots\\wp-content\\themes\\pinkrio.free",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots\\pinkrio.free",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots\\pinkrio.free\\",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots\\wp-content\\themes\\pinkrio.free",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots\\wp-content\\themes\\pinkrio.free",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\projectquots",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\wp_project",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\wc",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\wc\\WCM010013",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\PHP\\",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\PHP\\test\\bit",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\PHP\\recepti",
+			"",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\PHP\\php-for",
+			"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\VSS\\PHP\\homeworks\\php-loops",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"';\n",
+			"console.log(",
+			"window",
+			");\n",
+			"\";\n",
+			"select",
+			"');",
+			"');\n",
+			"d",
+			"vm",
+			"$scope",
+			"searchTextChange",
+			">\n",
+			";\n",
+			"());\n",
+			"(\"*\");\n",
+			");\n",
+			"*tab1",
+			"*/\n",
+			"adv-more-opt",
+			"<h4>HTML Layout Options 2: </h4>",
+			"responsive-layout-order",
+			"tabs-nav",
+			".layout-option'",
+			"$('.layout-option')",
+			"Advanced Options",
+			"layote-option-order",
+			"layote-option",
+			"HTML Layout Options",
+			"Layout Width",
+			"check",
+			"Responsive Layout",
+			"Responsive Layout ",
+			"\nOrder Summary",
+			"\nOrder Summary\n",
+			"Advanced Options",
+			"$('.spacing input:checkbox').on('change', function(){\n			// 	if($(this).prop('checked', true)){\n			// 		console.log('checked');\n			// 	}else{\n			// 		console.log('unchecked');\n			// 	}\n			// });",
+			"Advanced Options",
+			"Details",
+			" 4px 4px",
+			"4px 4px 16px -3px rgba(0,0,0,50",
+			"0.31",
+			"13",
+			"    ",
+			"<a href=\"#\" class=\"user-uploaded-image\">\n							<img src=\"assets/img/person1.jpg\">\n						</a>",
+			"500px",
+			"user-categories",
+			";}",
+			"75px",
+			"0;",
+			"75",
+			"125px",
+			"100",
+			"60",
+			"ПРОЕКТ",
+			"images/",
+			"lightbox",
+			"jpg",
+			"crewJob",
+			" </label>",
+			"<label>\n",
+			".checkbox-holder ",
+			".checkbox-col",
+			".checkbox-holder .checkbox-col",
+			".tabs-content ",
+			"project",
+			".tabs-content ",
+			"spacing",
+			".tab4 ",
+			"sign",
+			" ",
+			".tabs-content",
+			" .textarea-main { height: 160px; padding: 10px; }\n",
+			".tabs-content",
+			"BANNER",
+			"    ",
+			"   ",
+			"h2",
+			"97de5c",
+			"yellow",
+			"active",
+			"    ",
+			"lor sit amet, consectetur adipisicing elit, sed do eiusmod\n								tempor incididunt ut.</p>\n							</div>",
+			"							<div class=\"categories",
+			"div",
+			"\">\n",
+			"btn",
+			"120",
+			"100px",
+			"140px",
+			"  ",
+			"Мъж",
+			"holder",
+			".tabs ",
+			"tabs",
+			"    ",
+			"box-shadow: 3px 0px 13px -3px rgba(0,0,0,0.31);",
+			"box-shadow: 3px 13px 13px -12px rgba(0,0,0,0.40);",
+			" {",
+			"spacing",
+			"input-main",
+			".main-btn",
+			"menu-btn",
+			"menu",
+			".menu-btn",
+			"menu",
+			"0px 13p",
+			"0px",
+			"-3px",
+			"31",
+			"h2",
+			">\n",
+			"text",
+			" 13px",
+			" -2px",
+			"10px 10px",
+			"10",
+			"home_view",
+			"h5",
+			"jpg\">\n					</div>",
+			"<div class=\"image-holder\">",
+			"0%,",
+			"0%",
+			"action",
+			".call-to-action",
+			"jpg\">\n						</div>",
+			"div class=\"user-u",
+			"Sport"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$scope",
+			"vm",
+			"$this->User->",
+			"http://print-decor.eu/rateit/index.php/Users/",
+			"$this->User",
+			"Change_password",
+			"Dashboard",
+			"Dashboard_header",
+			"Login",
+			"template/Main",
+			"Register",
+			"template/Main",
+			"Upload_form",
+			"Dashboard",
+			"h5",
+			"h3",
+			"public",
+			"echo '<img class=\"imgj\" ",
+			"<img title=\"'.$r['file_name'].'\" src",
+			"alt=\"$r[file_name]\"",
+			"$r[file_name]",
+			"assets/fonts",
+			"src=\"<?php echo get_template_directory_uri(); ?>/images/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/images",
+			"src=\"<?php echo get_template_directory_uri(); ?>/",
+			"images"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								839,
+								839
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 91.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 170.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projects.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.bl",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"das",
+				"public\\app\\templates\\dashboard.html"
+			],
+			[
+				"dahs",
+				"public\\app\\controllers\\dashboardCtrl.js"
+			],
+			[
+				"productcon",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"productscontroller",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"ctrl",
+				"public\\app\\controllers\\dashboardCtrl.js"
+			],
+			[
+				"app.js",
+				"public\\app\\app.js"
+			],
+			[
+				"kernel",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				".css",
+				"public\\css\\homeStaf.css"
+			],
+			[
+				"app",
+				"public\\app\\app.js"
+			],
+			[
+				"productcontr",
+				"app\\Http\\Controllers\\ProductsController.php"
+			],
+			[
+				"home",
+				"public\\app\\templates\\home.html"
+			],
+			[
+				"in",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"dash",
+				"public\\app\\controllers\\dashboardCtrl.js"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"index",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"index.bla",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"new",
+				"public\\app\\templates\\new.html"
+			],
+			[
+				"inde",
+				"resources\\views\\index.blade.php"
+			],
+			[
+				"sha1",
+				"public\\app\\services\\sha1.js"
+			],
+			[
+				"routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"",
+				"composer.json"
+			],
+			[
+				"homework",
+				"homeworks\\php-if\\task4.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\User\\Downloads\\SERVER\\SERVER\\htdocs\\crewjob\\crewjob.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "CI",
+		"selected_items":
+		[
+			[
+				"CI",
+				"CI_Input"
+			],
+			[
+				"",
+				"$Clear"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
