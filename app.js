@@ -8,7 +8,7 @@ jQuery(function($) {
 			k.style.width = '24%';
 		}else if(windowWith >= 612){
 			k.style.width = '48%';
-		}else if(windowWith >= 341){
+		}else if(windowWith < 612 ){
 			k.style.width = '100%';
 		}
 		k.style.height = '300px';
@@ -57,13 +57,18 @@ jQuery(function($) {
 
 
 	function closeAllOpenedProjects(){
-		$('#project-list li.created').stop().animate({
-			opacity: '0',
-			height: '0'
-		}, 300, function(){
-			$(this).remove();
-			$('#project-list li.selected').removeClass('selected');
-		});
+		// $('#project-list li.created').stop().animate({
+		// 	opacity: '0',
+		// 	height: '0'
+		// }, 300, function(){
+		// 	$(this).remove();
+		// 	// $('#project-list li.selected').removeClass('selected');
+		// });
+		if ($(".created")[0]){
+			$('html, body').stop().animate({
+		        scrollTop: $(".created").offset().top - 70
+		    }, 700);
+		}
 	}
 
 
@@ -379,6 +384,73 @@ jQuery(function($) {
 
 				break;
 			default:
+			if(!project.hasClass('selected')){
+								if(!$(project).hasClass('created')){			
+									if ($(".selected")[0]){
+										$(".selected").removeClass('selected');
+									}
+									project.addClass('selected');
+								if ($(".created")[0]){
+									$('#project-list li.created').stop().animate({
+										opacity: '0',
+										height: '0'
+									}, 300, function(){
+										$(this).remove();
+										var createProject = document.createElement("LI");							
+
+										$(project).after(createProject);
+
+										$(createProject).css({opacity: '0', height: '0'});
+										$(createProject).stop().animate({					
+											width: '99%'					
+											// height: '200px'
+										}, 100, function(){
+											$(this).stop().animate({
+												height: '500px',
+												opacity: '1'
+											}, 700);
+
+											$(createProject).text(project.text() + " Hello from created project");	
+											$(createProject).addClass('project');
+											$(createProject).addClass('created');
+
+											$('html, body').animate({
+										        scrollTop: $(".created").offset().top - 70
+										    }, 700);
+											
+										});
+									});	
+								}else{
+									var createProject = document.createElement("LI");							
+									$(project).after(createProject);
+									
+									$(createProject).css({opacity: '0', height: '0'});
+									$(createProject).stop().animate({					
+										width: '99%'					
+										// height: '200px'
+									}, 100, function(){
+										$(this).stop().animate({
+											height: '500px',
+											opacity: '1'
+										}, 700);
+										$(createProject).text(project.text() + " Hello from created project");	
+										$(createProject).addClass('project');
+										$(createProject).addClass('created');
+										$('html, body').animate({
+										        scrollTop: $(".created").offset().top - 70
+										    }, 700);
+									});
+								}			
+							}
+						}else{
+							project.removeClass('selected');
+							$('#project-list li.created').stop().animate({
+									opacity: '0',
+									height: '0'
+								}, 300, function(){
+									$(this).remove();
+								});
+						}
 				break;
 		}		
 	}
